@@ -1,6 +1,7 @@
 # docker-utils
 
 **docker-rm-exited**: Remove exited docker containers
+
 **docker-prune**: Delete all unused docker images
 
 # Installation
